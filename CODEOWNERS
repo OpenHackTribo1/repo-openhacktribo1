@@ -1,3 +1,4 @@
+
 # Referencia
 # https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
  
@@ -8,3 +9,10 @@
 # *       @global-owner1 @global-owner2
  
 * @zeksantos @psilvaazevedo @mronel @jpfrezzarin
+
+# Permissoes explicitas das APIs (subdiretorios)
+
+apis/poi/ @zeksantos
+apis/trips/ @psilvaazevedo
+apis/user-java/ @mronel
+apis/userprofile/ @jpfrezzarin
